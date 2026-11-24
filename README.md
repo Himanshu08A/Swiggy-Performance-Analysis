@@ -1,6 +1,6 @@
 # Swiggy Performance Analysis & Interactive Dashboard
 
-**An exploratory sales and business performance analysis project using Microsoft Excel and Power BI.**
+**An exploratory sales and business performance analysis project using Microsoft Excel.**
 
 ## Project Overview
 
